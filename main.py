@@ -66,9 +66,11 @@ testY = 10
 # Game Over
 over_font = pygame.font.Font('freesansbold.ttf', 64)
 
+
 def show_score(x, y):
     score = font.render("Score : " + str(score_value), True, (255, 255, 255))
     screen.blit(score, (x, y))
+
 
 def game_over_text():
     over_text = over_font.render("GAME OVER", True, (255, 255, 255))
@@ -142,7 +144,7 @@ while running:
         # Game Over
         if enemyY[i] > 440:
             for j in range(num_of_enemies):
-                enemyY[j] = 200
+                enemyY[j] = 2000
             game_over_text()
             break
 
@@ -161,7 +163,7 @@ while running:
             explosionSound.play()
             bulletY = 480
             bullet_state = "ready"
-            score_value += 1
+            score_value += 2
             enemyX[i] = random.randint(0, 736)
             enemyY[i] = random.randint(50, 150)
 

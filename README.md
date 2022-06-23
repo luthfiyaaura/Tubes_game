@@ -32,8 +32,9 @@ Pesan yang di dapat dalam game ini yaitu janganlah membenarkan permusuhan, walau
 
 # MECHANIC
 
-Core        Core Action     Core Purpose
-Pesawat     Menembak        Menghindari serangan musuh
+Core : Pesawat    
+Core Action : Menembak
+Core Purpose : Menghindari serangan musuh
 
 # AESTHETIC
 Karakter    : Pesawat
@@ -53,7 +54,7 @@ Alien Exterminator merupakan game dimana pemain berada pada pihak pesawat yang m
 Alien Exterminator merupakan game yang membutuhkan keterampilan dan sinkronisasi antara otak dan tangan, karena pemain harus fokus agar dapat menghindari serangan dari ufo dan berfikir kapan waktunya menyerang musuh.
 
 # Genre Game
-Alien Exterminator merupakan game dengan genre ()
+Alien Exterminator merupakan game dengan genre Action, arcade & survival
 
 # Target Audience
 Alien Exterminator merupakan game yang dapat dimainkan oleh pemain dengan golongan usia anak-anak hingga dewasa
